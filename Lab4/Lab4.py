@@ -1,6 +1,7 @@
 # Question 1: From below testString variable, I want to print "test string"
 testString = "i am test string"
 
+#Question 2
 a = set()
 a.add("abc")
 a.add("def")
@@ -8,7 +9,7 @@ b = set()
 b.add("def")
 b.add("xyz")
 
-# Question 2: I want to print following from above sets a and b
+# I want to print following from above sets a and b
 # def
 # xyz
 # abc
