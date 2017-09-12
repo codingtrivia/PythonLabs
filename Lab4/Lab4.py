@@ -1,4 +1,4 @@
-# Question 1: From below "testString", I want to print "test string"
+# Question 1: From below testString variable, I want to print "test string"
 testString = "i am test string"
 
 a = set()
