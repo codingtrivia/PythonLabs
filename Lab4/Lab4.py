@@ -19,15 +19,14 @@ b.add("xyz")
 # Question 3: How would you print all key / value pairs of following dictionary
 c={"a":[1,2],"b":[3,4],"c":[5,6],"d":[7,8]}
 
-# How would you print all values of the dictionary as follows using %s
+# Question 4: How would you print all values of the dictionary c (c from question 3 above) as follows using %s
 # "This is value [1,2]"
 # "This is value [3,4]"
 # "This is value [5,6]"
 # "This is value [7,8]"
 
 
-# Question 4: How would you print only those values from c where key is b using if
+# Question 5: How would you print only those values from dictionary c (c from question 3 above) where key is b using if
 
+# Question 6: How would you print all keys that have even values from dictionary d below. Hint: using if and %
 d={"a":1,"b":2,"c":3,"d":4}
-
-# Question 5: How would you print all keys that have even values. Hint: using if and %
