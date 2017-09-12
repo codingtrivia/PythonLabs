@@ -10,7 +10,7 @@ b.add("xyz")
 
 # Question 2: I want to print following from above sets a and b
 # def
-# xyzs
+# xyz
 # abc
 # abc, xyz
 
