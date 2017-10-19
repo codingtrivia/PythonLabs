@@ -1,5 +1,5 @@
-# Q1: Below function prints numbers in increasing order till the number passed into the function. What do we need to change
-# in this function so that it print downwards in decreasing order.
+# Q1: Below function prints numbers in increasing order (till the number passed into the function). What do we need to change
+# in this function so that it prints downwards in decreasing order.
 # If you can write down call stack and value of number on every call, that would help.
 def print_up_down(number):
     if(number == 0):
