@@ -7,7 +7,7 @@ def print_up_down(number):
     count_up(number-1)
     print(number)
 
-count_up(2)
+print_up_down(2)
 
 
 #Q2 Below code adds first n numbers.
