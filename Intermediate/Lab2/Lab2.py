@@ -4,7 +4,7 @@
 def print_up_down(number):
     if(number == 0):
         return 0
-    count_up(number-1)
+    print_up_down(number-1)
     print(number)
 
 print_up_down(2)
