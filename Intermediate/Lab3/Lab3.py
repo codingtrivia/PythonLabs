@@ -5,7 +5,8 @@
 # 4
 # 2
 
-# You will need to do a slight modification from the code we wrote for print_up_down in our class today.
+# You will need to do a slight modification in the code we wrote for print_up_down in our class today.
+# Hint: Use % operator
 
 def print_down(n):
     #<your code here>
